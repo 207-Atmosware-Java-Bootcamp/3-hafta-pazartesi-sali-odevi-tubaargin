@@ -1,3 +1,3 @@
 # 3.hafta.pazartesi-sali.odevi
 3.hafta pazartesi sali odevi
-![array](https://user-images.githubusercontent.com/86284062/172143644-a66d4e55-ac95-4d62-a641-65cc8d0d3169.png)
+![array](https://user-images.githubusercontent.com/86284062/172161115-13cedc75-43ca-49ec-b8aa-d4e5b56e2b1e.png)
