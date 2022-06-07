@@ -2,15 +2,19 @@
 //Yardımcı oalcak metotlar v.s                                                                          function
 //string ==> replace,sub,String,charAt()
 //loop
+
 var cumle;
 cumle = prompt("Enter name");
 var count = "";
-for (var i = 0; i < cumle.replace(" ", "").length - 2; i++) {
-  count += "*";
+
+function secretString(cumle) {
+  for (var i = 0; i < cumle.replace(" ", "").length - 2; i++) {
+    count += "*";
+  }
+  //cumleTrim = cumle.replace(" ", "");
 }
-cumleTrim = cumle.replace(" ", "");
+secretString(cumle);
 document.write(
-  cumle.charAt(0) +
-    cumleTrim.replace(cumleTrim, count) +
-    cumle.charAt(cumle.length - 1)
+  cumle.replace(cumle.substring(1, cumle.length - 1), count) + "<br>"
 );
+//document.write(cumle.charAt(0) +cumleTrim.replace(cumleTrim, count) + cumle.charAt(cumle.length - 1));
