@@ -1,4 +1,4 @@
-# 3.hafta cuma ödevi (06.06.2022)
+# 3.hafta pazartesi-salı ödevi (06.06.2022)-(07.06.2022)
 
 1) tostring() join() concat()?
 2) Regex Yapısı
