@@ -4,7 +4,9 @@
 2) Regex Yapısı
 3) splice() slice()
 4) {[]} [{}] bu ikisi aynı mı?
-5) Proje ödevi, Math.round(Math.random()*10+1)) bilgisayar tarafında rastgele  sayılar 1-10 arasında rastgele oluştursun 
+5) LİFO FİFO
+6) Apply-Call-Bind nedir?
+7) Proje ödevi, Math.round(Math.random()*9+1)) bilgisayar tarafında rastgele  sayılar 1-10 arasında rastgele oluştursun 
 
  bitiş değeri 1<=X<=kullanıcı tarafından bitiş sayısına göre sayılar oluşturulsun
 
@@ -21,7 +23,7 @@
 
 ![array](https://user-images.githubusercontent.com/86284062/172161115-13cedc75-43ca-49ec-b8aa-d4e5b56e2b1e.png)
 
-6) Proje ödevi, kullanıcıdan aldığımız verinin ilk harfi ve son harfi görünsün
+8) Proje ödevi, kullanıcıdan aldığımız verinin ilk harfi ve son harfi görünsün
  
  geride kalan karakterler * olsun (string,replace,sub,charAt(),loop)
  
